@@ -43,7 +43,7 @@ If you found this tool useful, consider leaving a star to support future develop
 
 - Click the above button  or [click here](https://repl.it/github/AnuragBathani/Mrigtrix) to run on `repl.it`
 - Login/Signup on [repl.it](https://repl.it)
-- After it clones the repo edit <a href="https://github.com/swagkarna/Nivistealer/blob/bfb77519443a90613fab8f55c1a534b8918c5345/python_flask/index.html#L185">this</a> line with your repl url
+- After it clones the repo edit <a href="https://github.com/AnuragBathani/Mrigtrix/blob/324ac626f15017354e975d3a04aa52144b3f5442/python_flask/index.html#L233">this</a> line with your repl url
 - Now click Run
 
 ---
