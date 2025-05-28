@@ -95,10 +95,9 @@ def check_tailscale():
             return False
     else:
         print("[+] Tailscale is already installed.")
-    print("\n[+] To authenticate Tailscale, open this URL in your browser:")
-    print("    https://login.tailscale.com")
-    print("\n[+] Then run this command:")
-    print("    sudo tailscale up")
+    print("\n[+] Trying to authenticate...")
+    print("https://login.tailscale.com")
+    subprocess.run(['sudo','tailscale','up'])
     input("[*] Press Enter after authentication to continue...")
     return True
 
