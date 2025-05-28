@@ -39,9 +39,9 @@ If you found this tool useful, consider leaving a star to support future develop
 
 ### Method 0: Replit
 
-  [![Run on Repl.it](https://repl.it/badge/github/swagkarna/Nivistealer)](https://repl.it/github/swagkarna/Nivistealer)
+  [![Run on Repl.it](https://repl.it/badge/github/AnuragBathani/Mrigtrix)](https://repl.it/github/AnuragBathani/Mrigtrix)
 
-- Click the above button  or [click here](https://repl.it/github/swagkarna/Nivistealer) to run on `repl.it`
+- Click the above button  or [click here](https://repl.it/github/AnuragBathani/Mrigtrix) to run on `repl.it`
 - Login/Signup on [repl.it](https://repl.it)
 - After it clones the repo edit <a href="https://github.com/swagkarna/Nivistealer/blob/bfb77519443a90613fab8f55c1a534b8918c5345/python_flask/index.html#L185">this</a> line with your repl url
 - Now click Run
