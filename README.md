@@ -50,7 +50,7 @@ If you found this tool useful, consider leaving a star to support future develop
 - Clone or Download this repo
 - Create a account on any webhosting site that provide ssl . I suggest a free webhosting site called ```000webhost.com```
 - Now upload ```index.html,collector.php,post.php``` on your webhosting site
-- Now open index.html and replace <A href="https://github.com/swagkarna/Nivistealer/blob/cd447284a17844d019fa116f2cd5665de9bd1c6b/index.html#L80">this</a> with your ```discord webhook url```  
+- Now open index.html and replace <A href="https://github.com/AnuragBathani/Mrigtrix/blob/282851ee043498b50ba31f248dd5baf964522030/index.html#L194">this</a> with your ```discord webhook url```  
 - Boom !!! . Now send the phishing link to your victim . Logs will be send to your discord webhook and also saved to ```sensitiveinfo.txt``` file 
 
 ---
